@@ -3,7 +3,7 @@
 <h4>This project is build using Django framework where user can post a meme and view all the memes. The api is build using django rest framework.</h4>
 
 <h2><a href='https://xmemebyanuj.herokuapp.com/home'>Home Page</a></h2>
-<img alt="XMEME by Anuj Sharma" src="https://gitlab.crio.do/COHORT_ME_BUILDOUT_XMEME_ENROLL_1612436694845/anujsharma6299-me_buildout_xmeme/-/raw/master/media/ss%20(1).png"/>
+<img alt="XMEME by Anuj Sharma" src="./media/ss (1).png"/>
 <br/>
 
 <h1><a href='https://xmemebyanuj.herokuapp.com/'>Post The Meme</a></h1>
