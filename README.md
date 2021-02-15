@@ -10,7 +10,7 @@
 <img alt="XMEME by Anuj Sharma" src="./media/ss (6).png"/>
 <br/>
 
-<h1><a href='https://apixmeme.herokuapp.com/memes/'>API Map</a></h1>
+<h1><a href='https://apixmeme.herokuapp.com/memes/'>Backend API</a></h1>
 <p float="left">
 <img alt="XMEME by Anuj Sharma" src="./media/ss%20(2).png"/>
 <img alt="XMEME by Anuj Sharma" src="./media/ss%20(3).png"/>
