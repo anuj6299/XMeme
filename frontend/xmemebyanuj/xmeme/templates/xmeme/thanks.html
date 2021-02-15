@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+   <body>
+    Your meme is successfuly added!
+
+      <script>
+         setTimeout(function(){
+            window.location.href = "{% url 'xmeme:index' %}";
+         }, 3000);
+      </script>
+      <p>You will be redirected to homepage after 3 seconds.</p>
+   </body>
+</html>
